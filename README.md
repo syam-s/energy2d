@@ -16,4 +16,4 @@ Charles Xie, Interactive Heat Transfer Simulations for Everyone, The Physics Tea
 
 ## Acknowledgement
 
-This open-source program was initially supported by the National Science Foundation (NSF) of the United States under grant numbers 0918449 and 1124281. Neither the NSF nor the developer, however, provides any sort of warranty for this program.
+This open-source program was initially supported by the National Science Foundation (NSF) of the United States under grant numbers 0918449, 1124281, and 1512868. Neither the NSF nor the developer, however, provides any sort of warranty for this program.
