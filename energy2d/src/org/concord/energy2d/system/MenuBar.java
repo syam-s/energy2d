@@ -896,6 +896,7 @@ class MenuBar extends JMenuBar {
         examples.put("Comparing Temperature Differences", "examples/conduction3.e2d");
         examples.put("Comparing Conducting Distances", "examples/conduction4.e2d");
         examples.put("Comparing Specific Heats", "examples/conduction5.e2d");
+        examples.put("The Thermal Effusivity", "examples/thermal-effusivity1.e2d");
         examples.put("The Series Circuit Analogy", "examples/series-circuit-analogy.e2d");
         examples.put("The Parallel Circuit Analogy", "examples/parallel-circuit-analogy.e2d");
         examples.put("Why We Feel Hot or Cold When Touching Something", "examples/hand.e2d");
