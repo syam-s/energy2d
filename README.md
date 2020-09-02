@@ -22,7 +22,7 @@ This open-source program was initially supported by the National Science Foundat
 
 1. Inge Magdalena Sutjahja, Sufiyah Assegaf, & Surjamanto Wonorahardjo, Digital Simulation as Learning Aid for Heat Flow in Solid Theoretical Understanding, Journal of Physical Science and Engineering, 5(1), 11-21, 2020
 1. Fabio Longo, Alessio Cascardi, Paola Lassandro, & Maria Antonietta Aiello, A New Fabric Reinforced Geopolymer Mortar (FRGM) with Mechanical and Energy Benefits, Fibers, 8(8), 49, 2020
-- Abhar Bhattarai, Bivek Baral, & Malesh Shah, Redesigning Direct Air Capture Using Renewable Energy, Bhutan Journal of Research and Development, pp.86-106, Spring, 2020
+1. Abhar Bhattarai, Bivek Baral, & Malesh Shah, Redesigning Direct Air Capture Using Renewable Energy, Bhutan Journal of Research and Development, pp.86-106, Spring, 2020
 - Erik Mukk, Reinforcement learning based smart home heating solution in Energy2D simulation software, University of Tartu, 2020
 - Vaithinathan Karthikeyan, James UtamaSurjadi, Joseph C.K.Wong, Venkataraman Kannan, Kwok-Ho Lam, Xianfeng Chen, Yang Lu, & Vellaisamy A.L.Roy, Wearable and flexible thin film thermoelectric module for multi-scale energy harvesting, Journal of Power Sources, 455, 2020
 - Stefano Oss, Infrared imaging of a non-stationary thermal conductive process and observation of its Green’s kernel, European Journal of Physics, 41(1), 015102, 2020
@@ -74,5 +74,4 @@ Alessandro Massaro, Angelo Galiano, Giacomo Meuli, & Saverio Francesco Massari, 
 - Atanas Vasilev, Geothermal Evolution of Gas Hydrate Deposits: Bulgarian Exclusive Economic Zone in the Black Sea, Comptes rendus de l‘Académie bulgare des Sciences, Volume 68, No. 9, pp 1135-1144, 2015
 - Yit Man Heng, Experimental Investigation of Roof Top Solar Chimney for Natural Ventilation, Universiti Teknologi PETRONAS, 2015
 - Mikolaj Michal Chojnacki, Modelling and Simulation of Transient Heat Transfer for Sustainable Buildings, Warsaw University of Technology, 2015
-- Pedro A. Hernández, et al., Magma Emission Rates from Shallow Submarine Eruptions Using Airborne Thermal Imaging, Remote Sensing of Environment, Volume 154, pp 219-225, November 2014
-{: reversed="reversed"}
+- Pedro A. Hernández, et al., Magma Emission Rates from Shallow Submarine Eruptions Using Airborne Thermal Imaging, Remote Sensing of Environment, Volume 154, pp 219-225, November 2014 {: reversed="reversed"}
