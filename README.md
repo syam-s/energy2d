@@ -75,3 +75,4 @@ Alessandro Massaro, Angelo Galiano, Giacomo Meuli, & Saverio Francesco Massari, 
 - Yit Man Heng, Experimental Investigation of Roof Top Solar Chimney for Natural Ventilation, Universiti Teknologi PETRONAS, 2015
 - Mikolaj Michal Chojnacki, Modelling and Simulation of Transient Heat Transfer for Sustainable Buildings, Warsaw University of Technology, 2015
 - Pedro A. Hernández, et al., Magma Emission Rates from Shallow Submarine Eruptions Using Airborne Thermal Imaging, Remote Sensing of Environment, Volume 154, pp 219-225, November 2014
+{: reversed="reversed"}
