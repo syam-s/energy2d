@@ -20,8 +20,8 @@ This open-source program was initially supported by the National Science Foundat
 
 ## Applications
 
-- Inge Magdalena Sutjahja, Sufiyah Assegaf, & Surjamanto Wonorahardjo, Digital Simulation as Learning Aid for Heat Flow in Solid Theoretical Understanding, Journal of Physical Science and Engineering, 5(1), 11-21, 2020
-- Fabio Longo, Alessio Cascardi, Paola Lassandro, & Maria Antonietta Aiello, A New Fabric Reinforced Geopolymer Mortar (FRGM) with Mechanical and Energy Benefits, Fibers, 8(8), 49, 2020
+1 Inge Magdalena Sutjahja, Sufiyah Assegaf, & Surjamanto Wonorahardjo, Digital Simulation as Learning Aid for Heat Flow in Solid Theoretical Understanding, Journal of Physical Science and Engineering, 5(1), 11-21, 2020
+1 Fabio Longo, Alessio Cascardi, Paola Lassandro, & Maria Antonietta Aiello, A New Fabric Reinforced Geopolymer Mortar (FRGM) with Mechanical and Energy Benefits, Fibers, 8(8), 49, 2020
 - Abhar Bhattarai, Bivek Baral, & Malesh Shah, Redesigning Direct Air Capture Using Renewable Energy, Bhutan Journal of Research and Development, pp.86-106, Spring, 2020
 - Erik Mukk, Reinforcement learning based smart home heating solution in Energy2D simulation software, University of Tartu, 2020
 - Vaithinathan Karthikeyan, James UtamaSurjadi, Joseph C.K.Wong, Venkataraman Kannan, Kwok-Ho Lam, Xianfeng Chen, Yang Lu, & Vellaisamy A.L.Roy, Wearable and flexible thin film thermoelectric module for multi-scale energy harvesting, Journal of Power Sources, 455, 2020
